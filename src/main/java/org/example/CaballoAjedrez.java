@@ -4,7 +4,6 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class CaballoAjedrez {
-
     private static final int N = 8;// Se declara el tamaño del tablero con N =  8
     private static int[][] tablero = new int[N][N];//Declaro la matriz para representar el tablero
 
